@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-repositorio de prueba
+repositorio de prueba para practicar
